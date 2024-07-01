@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import LocomotiveScroll from 'locomotive-scroll';
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
@@ -15,8 +16,12 @@ import Footer from './components/Footer'
 function App() {
   const [count, setCount] = useState(0)
 
+
+  const locomotiveScroll = new LocomotiveScroll();
   return (
     <>
+    <div className='overflow-hidden'>
+
               <Landing/>
               <Second/>
               <Third/>
@@ -26,6 +31,7 @@ function App() {
               <Seventh/>
               <Eighth/>
               <Footer/>
+    </div>
     </>
   )
 }

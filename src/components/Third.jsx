@@ -36,7 +36,7 @@ const Third = () => {
 
                <div className='mt-[40px] sm:text-7xl lg:text-5xl w-full text-center text-5xl font7 font-light -tracking-[1.5px] '>
                               <p>delivered</p>                                             
-                              <p>projects</p>                                             
+                              <p>products</p>                                             
                </div>
     </div>
   )

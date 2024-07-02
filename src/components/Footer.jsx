@@ -15,8 +15,9 @@ const Footer = () => {
       gsap.from(last.current,{
         scrollTrigger:{
           trigger:lastdiv.current,
-          start:"20px top",
+          start:"20px 100px",
           end:"450px bottom",
+          // markers:true,
           scrub:4
         },
         y:"100%",
@@ -30,7 +31,7 @@ const Footer = () => {
 
     // it is done for the mobile devices 
     // now lets create this for the bigger devices
-    <div ref={lastdiv} className='w-full h-[90vh] lg:h-[105vh] bg-[#151519] text-white'>
+    <div ref={lastdiv} className='w-full h-[100vh] lg:h-[105vh] bg-[#151519] text-white'>
                <div className='w-full h-[51%] flex '>
                               <div className='w-1/2 h-full font5 pl-5 pt-20 sm:pt-40 lg:pt-20 text-[16px] sm:text-[30px]  border-r-[1px] border-white/20'>
                                              <p className='opacity-50'>More than 20 years</p>

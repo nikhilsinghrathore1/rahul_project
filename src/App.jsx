@@ -20,7 +20,7 @@ function App() {
   const locomotiveScroll = new LocomotiveScroll();
   return (
     <>
-    <div className='overflow-hidden'>
+    <body className='overflow-hidden'>
 
               <Landing/>
               <Second/>
@@ -31,7 +31,7 @@ function App() {
               <Seventh/>
               <Eighth/>
               <Footer/>
-    </div>
+    </body>
     </>
   )
 }

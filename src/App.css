@@ -96,6 +96,10 @@
 .transi{
   transition: all 1s ease-in-out;
 }
+.no-scroll {
+  overflow: hidden;
+}
+
 .box{
   clip-path: polygon(0 0 , 100% 0 , 100% 100% , 0 100%);
 }

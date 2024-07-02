@@ -55,7 +55,7 @@ const Second = () => {
           <h1 className='font1 text-[15px] opacity-65 mt-5 sm:text-[23px] lg:text-[15px]'>01</h1>
 
           <div className='mt-8 w-full lg:text-[13px] lg:leading-3 lg:mt-20 text-center leading-4 text-[15px] sm:text-[23px] sm:leading-[25px]  font2 opacity-80'>
-            <p>We use high standard for development</p>
+            <p>We use high standard for quality products</p>
             <p>to Create Space for creativity as usefull as possible</p>
           </div>
 

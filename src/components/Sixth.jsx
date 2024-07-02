@@ -143,7 +143,7 @@ const Sixth = () => {
     <div ref={maindiv} className='w-full h-[155vh] sm:h-[170vh] lg:h-[285vh] bg-[#151519] pl-5 pb-2 lg:pb-0 text-white pt-[250px] sm:pt-[400px] '>
                <div className='w-full h-[98%]  relative overflow-hidden text-[2.7rem] sm:text-[6rem] lg:text-[8.7rem] tracking-tighter  leading-[50px] sm:leading-[90px] lg:leading-[130px] font1'>
                               <p>
-                              {'Selemen®'.split("").map((char, index) => (
+                              {'Somany®'.split("").map((char, index) => (
                                 <span className='opacity-30 z-10 relative'
                                 ref={(el)=>text1.current[index] = el} key={index}>{char}</span>
                                ))}

@@ -19,17 +19,17 @@ const Seventh = () => {
                </div>
 
                <div data-scroll data-scroll-speed="-0.1">
-                  <img className='w-[280px] h-[440px] mb-5 object-cover' src="https://selemen.liqium.com/img/mv3.jpg" alt="not showing" />
-                  <img className='w-[280px] h-[210px] object-cover' src="https://selemen.liqium.com/img/mv4.jpg" alt="not showing" />
+                  <img className='w-[290px] h-[440px] mb-5 object-cover' src="https://selemen.liqium.com/img/mv3.jpg" alt="not showing" />
+                  <img className='w-[290px] h-[210px] object-cover' src="https://selemen.liqium.com/img/mv4.jpg" alt="not showing" />
                </div>
 
                 <div>
-                    <img className='w-[500px] h-[600px] object-cover' src="https://selemen.liqium.com/img/mv5.jpg" alt="not showing"/>
+                    <img className='w-[520px] h-[600px] object-cover' src="https://selemen.liqium.com/img/mv5.jpg" alt="not showing"/>
                 </div>
 
                 <div data-scroll data-scroll-speed="-0.1">
-                  <img className='w-[280px] h-[325px] object-cover mb-5' src="https://selemen.liqium.com/img/mv6.jpg" alt="not showing" />
-                  <img className='w-[280px] h-[325px] object-cover' src="https://selemen.liqium.com/img/mv7.jpg" alt="not showing" />
+                  <img className='w-[290px] h-[325px] object-cover mb-5' src="https://selemen.liqium.com/img/mv6.jpg" alt="not showing" />
+                  <img className='w-[290px] h-[325px] object-cover' src="https://selemen.liqium.com/img/mv7.jpg" alt="not showing" />
                 </div>
 
                 <div data-scroll data-scroll-speed="-0.3">

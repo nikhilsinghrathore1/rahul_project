@@ -50,8 +50,8 @@ const Landing = () => {
             trigger: fulldiv.current,
             start: 'top top',
             end: 'bottom center',
-            pin:true,
             scrub: 5,
+            pin:true,
           }
         });
         

@@ -10,7 +10,7 @@ const Seventh = () => {
                               <p className='mt-6 text-[10px] font4 opacity-70'>We will help you implement a project of</p>
                               <p className='text-[10px] font4 opacity-70'>of any complexity</p>
                </div>
- <div className='flex  w-full items-end gap-5'>
+ <div className='flex  w-full justify-between items-end gap-5'>
 
 
                <div data-scroll data-scroll-speed="-0.2">
